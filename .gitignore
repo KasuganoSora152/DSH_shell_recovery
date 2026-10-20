@@ -1,0 +1,11 @@
+node_modules/
+status.json
+*.log
+*.bak
+*.asar
+*.asar.*
+.env
+.env.*
+backups/
+coverage/
+*.verification.json

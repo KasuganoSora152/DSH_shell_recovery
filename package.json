@@ -1,0 +1,16 @@
+{
+  "name": "dsh-shell-recovery",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Hash-guarded in-memory workaround for a known Windows DSH Desktop shell initialization defect.",
+  "scripts": {
+    "test": "node --test",
+    "install-plugin": "node scripts/manage.mjs install",
+    "disable-plugin": "node scripts/manage.mjs disable",
+    "enable-plugin": "node scripts/manage.mjs enable"
+  },
+  "engines": {
+    "node": ">=22.15.0"
+  }
+}
