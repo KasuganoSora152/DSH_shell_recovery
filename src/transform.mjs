@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+// Copyright (C) 2026 KasuganoSora152
 import { createHash } from 'node:crypto';
 export const originalHash = '0bb3a34508785bdc34626542f9358d398fd9f60fdaf4b48201dfdff2122f25fc';
 export const patchedHash = '93541b5477d1e8a83fe91d6de0c258a92d48498a2e0adc356d07a48bacbfa57b';

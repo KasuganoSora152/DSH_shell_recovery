@@ -116,6 +116,12 @@ Remove-Item Env:DSH_SANDBOX_SOURCE
 
 插件不发送遥测或网络请求。运行时的 `status.json` 和配置备份可能包含个人目录、进程 ID 或其他用户配置，**不要上传这些文件**。仓库仅提供通用源码和文档，`.gitignore` 排除了常见运行产物。
 
+## 开源协议
+
+本项目采用 [GNU General Public License v3.0](LICENSE)（`GPL-3.0-only`）开源协议。
+
+Copyright (C) 2026 KasuganoSora152。许可证适用于本项目代码；DSH 及其他第三方组件仍遵循各自的许可证。
+
 ## 参考
 
 - [Microsoft：Restricted Tokens](https://learn.microsoft.com/en-us/windows/win32/secauthz/restricted-tokens)

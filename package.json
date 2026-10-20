@@ -1,6 +1,7 @@
 {
   "name": "dsh-shell-recovery",
   "version": "1.0.0",
+  "license": "GPL-3.0-only",
   "private": true,
   "type": "module",
   "description": "Hash-guarded in-memory workaround for a known Windows DSH Desktop shell initialization defect.",
